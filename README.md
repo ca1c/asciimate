@@ -1,2 +1,2 @@
-# fingerSieze
-A basic type racing game.
+# Asciimate
+Create and share ascii art animations
